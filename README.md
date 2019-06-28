@@ -1,6 +1,8 @@
 # LE_Forecast_Bokeh_Py_3.7
  Decline Curve Analysis¶ Python and Bokeh can be used to perform a decline curve analysis on an example dataset. This demonstration of DCA in Python borrows heavily from excellent work done by Lukas Mosser. This uses the same methodology of curve fitting, but uses Bokeh for plotting, which is more appropriate for interacting with DCA analysis.
 
+
+
 DCA Theory
 Decline curves provide us with an empirical method to predict expected ultimate recovery and cummulative production of a reservoir.
 
